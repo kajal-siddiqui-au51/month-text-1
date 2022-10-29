@@ -1,0 +1,6 @@
+Explain commands
+a.	Git add :- the git add command adds a change in the working directory to the staging area.
+b.	The git commit command captures a snapshot of the project currently staged changes. 
+c.	The git pull command is used to fetch and download content from a remote repo and immediately update the local repo to match
+d.	The git branch command lets you create, list, rename ,and delete branches .
+e.	Git checkout <SHA number >:- the git checkout lets you navigate between the branches created by git branchs
